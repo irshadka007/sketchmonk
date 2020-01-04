@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sketchmonk/static/css/main.679f01ba.chunk.css",
+    "main.js": "/sketchmonk/static/js/main.80032f24.chunk.js",
+    "main.js.map": "/sketchmonk/static/js/main.80032f24.chunk.js.map",
+    "runtime-main.js": "/sketchmonk/static/js/runtime-main.cdd4d901.js",
+    "runtime-main.js.map": "/sketchmonk/static/js/runtime-main.cdd4d901.js.map",
+    "static/js/2.6bf10a59.chunk.js": "/sketchmonk/static/js/2.6bf10a59.chunk.js",
+    "static/js/2.6bf10a59.chunk.js.map": "/sketchmonk/static/js/2.6bf10a59.chunk.js.map",
+    "index.html": "/sketchmonk/index.html",
+    "precache-manifest.c97ba994fe873e1ab76e7d1369c78283.js": "/sketchmonk/precache-manifest.c97ba994fe873e1ab76e7d1369c78283.js",
+    "service-worker.js": "/sketchmonk/service-worker.js",
+    "static/css/main.679f01ba.chunk.css.map": "/sketchmonk/static/css/main.679f01ba.chunk.css.map",
+    "static/js/2.6bf10a59.chunk.js.LICENSE": "/sketchmonk/static/js/2.6bf10a59.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd4d901.js",
+    "static/js/2.6bf10a59.chunk.js",
+    "static/css/main.679f01ba.chunk.css",
+    "static/js/main.80032f24.chunk.js"
+  ]
+}
