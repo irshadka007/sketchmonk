@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sketchmonk/precache-manifest.3c406492172c4605b5a7ba9d4494f6d3.js"
+  "/sketchmonk/precache-manifest.abae2527657ceb4992ab3c0067c8b136.js"
 );
 
 self.addEventListener('message', (event) => {
