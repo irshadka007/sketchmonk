@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9a0dce8b.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.eafd6916.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.eafd6916.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.7b12a3db.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.7b12a3db.js.map",
-    "static/js/2.1d4231f8.chunk.js": "/react-gh-pages/static/js/2.1d4231f8.chunk.js",
-    "static/js/2.1d4231f8.chunk.js.map": "/react-gh-pages/static/js/2.1d4231f8.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.00e8058ea85c0d41d919553f216b749a.js": "/react-gh-pages/precache-manifest.00e8058ea85c0d41d919553f216b749a.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.9a0dce8b.chunk.css.map": "/react-gh-pages/static/css/main.9a0dce8b.chunk.css.map",
-    "static/js/2.1d4231f8.chunk.js.LICENSE": "/react-gh-pages/static/js/2.1d4231f8.chunk.js.LICENSE",
-    "static/media/logo_text.png": "/react-gh-pages/static/media/logo_text.1bf9f1ce.png",
-    "static/media/logo_vertical.png": "/react-gh-pages/static/media/logo_vertical.f99ff4c6.png"
+    "main.css": "/sketchmonk/static/css/main.9a0dce8b.chunk.css",
+    "main.js": "/sketchmonk/static/js/main.5fd49b34.chunk.js",
+    "main.js.map": "/sketchmonk/static/js/main.5fd49b34.chunk.js.map",
+    "runtime-main.js": "/sketchmonk/static/js/runtime-main.cdd4d901.js",
+    "runtime-main.js.map": "/sketchmonk/static/js/runtime-main.cdd4d901.js.map",
+    "static/js/2.1d4231f8.chunk.js": "/sketchmonk/static/js/2.1d4231f8.chunk.js",
+    "static/js/2.1d4231f8.chunk.js.map": "/sketchmonk/static/js/2.1d4231f8.chunk.js.map",
+    "index.html": "/sketchmonk/index.html",
+    "precache-manifest.0fe28b70cc5d44f2380e7d197757ba87.js": "/sketchmonk/precache-manifest.0fe28b70cc5d44f2380e7d197757ba87.js",
+    "service-worker.js": "/sketchmonk/service-worker.js",
+    "static/css/main.9a0dce8b.chunk.css.map": "/sketchmonk/static/css/main.9a0dce8b.chunk.css.map",
+    "static/js/2.1d4231f8.chunk.js.LICENSE": "/sketchmonk/static/js/2.1d4231f8.chunk.js.LICENSE",
+    "static/media/logo_text.png": "/sketchmonk/static/media/logo_text.1bf9f1ce.png",
+    "static/media/logo_vertical.png": "/sketchmonk/static/media/logo_vertical.f99ff4c6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b12a3db.js",
+    "static/js/runtime-main.cdd4d901.js",
     "static/js/2.1d4231f8.chunk.js",
     "static/css/main.9a0dce8b.chunk.css",
-    "static/js/main.eafd6916.chunk.js"
+    "static/js/main.5fd49b34.chunk.js"
   ]
 }
