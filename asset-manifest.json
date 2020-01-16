@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sketchmonk/static/css/main.1177d173.chunk.css",
+    "main.css": "/sketchmonk/static/css/main.0333fe28.chunk.css",
     "main.js": "/sketchmonk/static/js/main.7fe23b53.chunk.js",
     "main.js.map": "/sketchmonk/static/js/main.7fe23b53.chunk.js.map",
     "runtime-main.js": "/sketchmonk/static/js/runtime-main.cdd4d901.js",
@@ -8,9 +8,9 @@
     "static/js/2.1d4231f8.chunk.js": "/sketchmonk/static/js/2.1d4231f8.chunk.js",
     "static/js/2.1d4231f8.chunk.js.map": "/sketchmonk/static/js/2.1d4231f8.chunk.js.map",
     "index.html": "/sketchmonk/index.html",
-    "precache-manifest.e5810132c97bbc08e1967ac56cd811b5.js": "/sketchmonk/precache-manifest.e5810132c97bbc08e1967ac56cd811b5.js",
+    "precache-manifest.5c5c74fef155ed8cba3127c94dc1f159.js": "/sketchmonk/precache-manifest.5c5c74fef155ed8cba3127c94dc1f159.js",
     "service-worker.js": "/sketchmonk/service-worker.js",
-    "static/css/main.1177d173.chunk.css.map": "/sketchmonk/static/css/main.1177d173.chunk.css.map",
+    "static/css/main.0333fe28.chunk.css.map": "/sketchmonk/static/css/main.0333fe28.chunk.css.map",
     "static/js/2.1d4231f8.chunk.js.LICENSE": "/sketchmonk/static/js/2.1d4231f8.chunk.js.LICENSE",
     "static/media/logo_text.png": "/sketchmonk/static/media/logo_text.1bf9f1ce.png",
     "static/media/logo_vertical.png": "/sketchmonk/static/media/logo_vertical.f99ff4c6.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cdd4d901.js",
     "static/js/2.1d4231f8.chunk.js",
-    "static/css/main.1177d173.chunk.css",
+    "static/css/main.0333fe28.chunk.css",
     "static/js/main.7fe23b53.chunk.js"
   ]
 }
