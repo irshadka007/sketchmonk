@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfb538507e9b72e7625edf9505abe66d",
+    "revision": "a6a386c84f9094133f1d6630d9606651",
     "url": "/sketchmonk/index.html"
   },
   {
-    "revision": "548036ef321c1e1ad348",
-    "url": "/sketchmonk/static/css/main.9a0dce8b.chunk.css"
+    "revision": "70138e77b34b9734ec65",
+    "url": "/sketchmonk/static/css/main.1177d173.chunk.css"
   },
   {
     "revision": "0f0421dbb054bdd91df3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketchmonk/static/js/2.1d4231f8.chunk.js.LICENSE"
   },
   {
-    "revision": "548036ef321c1e1ad348",
-    "url": "/sketchmonk/static/js/main.5fd49b34.chunk.js"
+    "revision": "70138e77b34b9734ec65",
+    "url": "/sketchmonk/static/js/main.7fe23b53.chunk.js"
   },
   {
     "revision": "0512dbe022734146db20",
